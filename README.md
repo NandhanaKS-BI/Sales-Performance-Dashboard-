@@ -55,6 +55,9 @@ The objective of this dashboard is to:
 2. Open using Microsoft Excel
 
 ---
+## 📸 Dashboard Preview
+
+![Sales Dashboard](sales Dashboard.jpg)
 
 ## 👩‍💻 Author
 Nandhana K.S  
