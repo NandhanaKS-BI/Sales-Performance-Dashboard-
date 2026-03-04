@@ -57,7 +57,7 @@ The objective of this dashboard is to:
 ---
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](sales Dashboard.jpg)
+![Sales Dashboard](Sales%20Dashboard.jpg)
 
 ## 👩‍💻 Author
 Nandhana K.S  
